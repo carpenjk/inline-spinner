@@ -1,1 +1,1 @@
-# project-name
+# inline-spinner

@@ -1,8 +1,8 @@
 {
-  "name": "@carpenjk/spinners",
+  "name": "@carpenj/inline-spinner",
   "version": "1.0.0",
   "description": "This a description",
-  "main": "lib/spinner.js",
+  "main": "lib/inlineSpinner.js",
   "scripts": {
     "prebuild": "rimraf lib",
     "build": "babel src -d lib",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carpenjk/spinners.git"
+    "url": "git+https://github.com/carpenjk/inline-spinner.git"
   },
   "keywords": [
     "spinner"
@@ -19,9 +19,9 @@
   "author": "Jeremy Carpenter",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/carpenjk/spinners/issues"
+    "url": "https://github.com/carpenjk/inline-spinner/issues"
   },
-  "homepage": "https://github.com/carpenjk/spinners#readme",
+  "homepage": "https://github.com/carpenjk/inline-spinner#readme",
   "devDependencies": {
     "@babel/cli": "^7.18.10",
     "@babel/core": "^7.18.10",
