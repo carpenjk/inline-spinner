@@ -1,1 +1,1 @@
-export { default as InlineSpinner } from './components/inlineSpinner'
+export { default as InlineSpinner } from './components/inlineSpinner/InlineSpinner'
